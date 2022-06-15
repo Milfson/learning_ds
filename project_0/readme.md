@@ -1,12 +1,12 @@
 # Проект 0. Игра "Угадай число"
 
 ## Оглавление 
-[1. Описание проекта]()\
-[2. Какой кейс решаем?]()\
-[3. Краткая информация о данных]()\
-[4. Этапы работы над проектом]()\
-[5. Результат]()\
-[6. Выводы]()
+[1. Описание проекта](https://github.com/Milfson/learning_ds/blob/main/project_0/readme.md/Описание-проекта)\
+[2. Какой кейс решаем?](https://github.com/Milfson/learning_ds/blob/main/project_0/readme.md/Какой-кейс-решаем)\
+[3. Краткая информация о данных](https://github.com/Milfson/learning_ds/blob/main/project_0/readme.md/Краткая-информация-о-данных)\
+[4. Этапы работы над проектом](https://github.com/Milfson/learning_ds/blob/main/project_0/readme.md/Этапы-работы-над-проектом)\
+[5. Результат](https://github.com/Milfson/learning_ds/blob/main/project_0/readme.md/Результат)\
+[6. Выводы](https://github.com/Milfson/learning_ds/blob/main/project_0/readme.md/Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
