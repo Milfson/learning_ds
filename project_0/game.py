@@ -17,4 +17,4 @@ while True:
         print('Загаданное число больше')
     else:
         print(f'Вы угадали число {number}, за {count} попыток')
-        break
+        break #Конец игры выход из цикла.
