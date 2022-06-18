@@ -36,9 +36,9 @@ def random_predict(number:int=np.random.randint(1, 101)) -> int:
             
     return count
 
-#if __name__ == '__main__':
+if __name__ == '__main__':
     # RUN
-    #random_predict()
+    random_predict()
 
 def score_game(random_predict) -> int:
     """За какое количство попыток в среднем за 100 подходов угадывает наш алгоритм.
@@ -57,13 +57,12 @@ def score_game(random_predict) -> int:
         count_ls.append(random_predict(number))
 
     score = int(np.mean(count_ls))
-    print(f"Ваш алгоритм угадывает число в среднем за:{score} попыток")
+    print(f"Ваш алгоритм угадывает число в среднем за: {score} попыток")
     
     return score
 
 
-#if __name__ == "__main__":
+if __name__ == "__main__":
     # RUN
-    #score_game(random_predict)
+    score_game(random_predict)
     
-score_game(random_predict)
